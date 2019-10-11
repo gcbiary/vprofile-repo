@@ -10,4 +10,7 @@ he is downloading all the videos
 after long ontime i am again practising git
 added few lines ..
 
+these lines addes using throuh gui github. 
+these changes should be reflected in gitpull.
+
 
