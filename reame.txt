@@ -13,4 +13,7 @@ added few lines ..
 these lines addes using throuh gui github. 
 these changes should be reflected in gitpull.
 
+successfully added few lines using CLI as well as gui
+
+next we are going to learn few more commands.
 
